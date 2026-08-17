@@ -6,6 +6,6 @@ crystal-domain: cybics
 ---
 canonical design article moved to cyber research:
 
-**[[adaptive hybrid economics]]** — `cyber/research/adaptive hybrid economics.md`
+**[[adaptive hybrid economics]]** — `cyber/specs/adaptive hybrid economics.md`
 
 minimal implementation notes (sliding window, on-proof handler) are absorbed there. do not edit this stub for protocol design
