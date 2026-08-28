@@ -52,6 +52,26 @@ without irreducibility: $\phi^*$ may not be unique (absorbing states create mult
 
 ---
 
+## a century of rankings
+
+the first person to rank by eigenvector was [[Edmund Landau]] — in 1895, for chess tournaments. his question was exactly the recursive one: a player is strong if she beats strong players. the answer is the Perron vector of the tournament matrix, a full century before the web
+
+the same theorem then surfaced wherever a system asks "who matters, given that mattering is defined by the others":
+
+| field | appearance |
+|-------|------------|
+| probability | ergodicity of [[Markov chain\|Markov chains]] — the stationary distribution exists and attracts |
+| dynamical systems | subshifts of finite type — topological entropy is the log of the Perron root |
+| economics | Okishio's theorem, Hawkins–Simon condition — viability of an input–output economy |
+| demography | Leslie matrices — the stable age distribution of a population |
+| social networks | [[DeGroot learning]] — repeated averaging of opinions converges to a weighted consensus |
+| search | [[pagerank\|PageRank]] — importance of a page as the fixed point of importance flow |
+| the [[cybergraph]] | [[focus]] — attention over particles as the unique stationary distribution |
+
+one theorem, one shape: recursive worth has a unique positive answer, and iteration finds it
+
+---
+
 ## application to the [[cybergraph]]
 
 the [[tri-kernel]] composite operator $\mathcal{R}$ acts on probability distributions over [[particles]]. it converges to $\phi^*$ because its induced transition matrix satisfies both conditions.
