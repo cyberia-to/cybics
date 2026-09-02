@@ -4,6 +4,8 @@ crystal-type: property
 crystal-domain: culture
 ---
 
+hex:: `#ff0000`
+
 wavelength:: 620-750 nm
 
 emotion:: [[anger]]

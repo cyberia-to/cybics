@@ -4,6 +4,8 @@ crystal-type: property
 crystal-domain: culture
 ---
 
+hex:: `#ffff00`
+
 wavelength:: 570-590 nm
 
 emotion:: [[surprise]]

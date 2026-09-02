@@ -3,6 +3,8 @@ tags: color, cyber
 crystal-type: property
 crystal-domain: culture
 ---
+hex:: `#4000ff`
+
 wavelength:: 420-450 nm
 
 emotion:: [[sadness]]

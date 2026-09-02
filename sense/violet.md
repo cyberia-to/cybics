@@ -4,6 +4,8 @@ crystal-type: property
 crystal-domain: culture
 ---
 
+hex:: `#8000ff`
+
 wavelength:: 380-420 nm
 
 emotion:: [[fear]]

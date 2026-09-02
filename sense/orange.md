@@ -3,6 +3,8 @@ tags: color, cyber
 crystal-type: property
 crystal-domain: culture
 ---
+hex:: `#ff8000`
+
 wavelength:: 590-620 nm
 
 emotion:: [[disgust]]
