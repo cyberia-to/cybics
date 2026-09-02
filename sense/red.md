@@ -8,6 +8,8 @@ wavelength:: 620-750 nm
 
 emotion:: [[anger]]
 
+symbol:: fire · will · life-blood
+
 the longest visible wavelength. highest energy in the warm spectrum
 
 evolutionary signal: fire, blood, thermal injury, dominance display
@@ -29,3 +31,5 @@ evolutionary signal: fire, blood, thermal injury, dominance display
 
 - danger, critical failure, system overload, resource depletion
 - the stop signal — immediate attention required
+
+one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

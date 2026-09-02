@@ -8,6 +8,8 @@ wavelength:: 570-590 nm
 
 emotion:: [[surprise]]
 
+symbol:: light · clarity · attention
+
 the brightest color in the visible spectrum by luminance
 
 evolutionary signal: sudden light, dawn, alerting patterns, attention grab
@@ -29,3 +31,5 @@ evolutionary signal: sudden light, dawn, alerting patterns, attention grab
 
 - attention needed, new event, unexpected state change, notification
 - the alert signal — something just happened, orient yourself
+
+one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

@@ -5,6 +5,7 @@ crystal-domain: culture
 ---
 - # An Evolutionary Theory of Color Perception
 - source:: https://x.com/compose/articles/edit/1983243442286112770
+- anchored at [[color]] — the top-level map, with the grown symbol layer
 - a novel evolutionary framework linking the visible [[electromagnetic spectrum]] to seven fundamental [[emotions]]
 - the ROYGBIV spectrum mirrors a gradient of emotional valences: high-arousal threats at longer wavelengths, subtle dangers at shorter wavelengths, positive states centered in the mid-spectrum
 

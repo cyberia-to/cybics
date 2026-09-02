@@ -18,3 +18,5 @@ Principia Mathematica (1687): unified terrestrial and celestial mechanics under 
 Master of the Royal Mint, reforming English coinage and currency standards
 
 laid the groundwork for the entire edifice of physics that [[Albert Einstein]] later extended with [[relativity]]
+
+his seven spectral colors are now bound to seven emotions — [[color]]

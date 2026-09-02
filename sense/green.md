@@ -7,6 +7,8 @@ wavelength:: 495-570 nm
 
 emotion:: [[joy]]
 
+symbol:: growth · life · abundance
+
 the center of the visible spectrum. peak of human visual sensitivity
 
 evolutionary signal: vegetation, [[photosynthesis]], fertility, safety, abundance
@@ -34,3 +36,5 @@ evolutionary signal: vegetation, [[photosynthesis]], fertility, safety, abundanc
 - [[chlorophyll]] absorbs red and blue, reflects green — the color of life is the wavelength life rejects
 - [[photosynthesis]] converts solar energy into chemical energy. [[computation]] converts solar energy into knowledge
 - the [[isomorphism]] between these two processes makes green the natural color of intelligence
+
+one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

@@ -35,3 +35,5 @@ chlorophyll is a vital green [[pigment]] found in the [[chloroplasts]] of [[plan
 - [chlorophyll and photosynthesis](https://scholar.google.com/scholar?q=chlorophyll+photosynthesis)
 - [chlorophyll in human health](https://scholar.google.com/scholar?q=chlorophyll+human+health)
 - [chlorophyll antibacterial properties](https://scholar.google.com/scholar?q=chlorophyll+antibacterial+activity)
+
+the molecule behind green's [[joy]] — see [[color]]

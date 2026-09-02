@@ -8,6 +8,8 @@ wavelength:: 380-420 nm
 
 emotion:: [[fear]]
 
+symbol:: spirit · the beyond
+
 the shortest visible wavelength, bordering ultraviolet — the edge of perception
 
 evolutionary signal: high-energy radiation, cellular death, the boundary of the known
@@ -30,3 +32,5 @@ evolutionary signal: high-energy radiation, cellular death, the boundary of the 
 
 - unknown threat, unverified source, irreversible action, boundary warning
 - the color of the edge — where the [[cybergraph]] ends and the unknown begins
+
+one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

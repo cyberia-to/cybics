@@ -24,3 +24,5 @@ Insufficient apoptosis: cancer, autoimmune disease. Excessive apoptosis: neurode
 ## connections
 
 The cellular expression of [[fear]] -- the readiness to dissolve for the sake of the system. Linked to [[violet]] as the color of transformation and death-rebirth cycles. Complements [[mitosis]] (growth) with removal.
+
+UV-induced apoptosis is the ancestral stimulus behind violet's fear in the [[color]] map

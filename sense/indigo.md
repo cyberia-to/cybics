@@ -7,6 +7,8 @@ wavelength:: 420-450 nm
 
 emotion:: [[sadness]]
 
+symbol:: depth · weight · law
+
 the deep blue of twilight and deep water — the threshold between day and night
 
 evolutionary signal: fading light, reduced activity, seasonal change, introspection
@@ -27,3 +29,5 @@ evolutionary signal: fading light, reduced activity, seasonal change, introspect
 
 - inactivity, declining metrics, dormancy, deprecated content
 - the quiet signal — something fading, needs gentle attention
+
+one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

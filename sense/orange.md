@@ -7,6 +7,8 @@ wavelength:: 590-620 nm
 
 emotion:: [[disgust]]
 
+symbol:: craft · hearth · making
+
 bridges [[red]] and [[yellow]] — the transition between threat and alert
 
 evolutionary signal: decay, rot, toxic substances, contamination
@@ -28,3 +30,5 @@ evolutionary signal: decay, rot, toxic substances, contamination
 
 - invalid data, rejected transactions, spam content, corrupted [[particles]]
 - caution — something is wrong, verify before proceeding
+
+one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

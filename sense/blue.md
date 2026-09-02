@@ -8,6 +8,8 @@ wavelength:: 450-495 nm
 
 emotion:: [[interest]]
 
+symbol:: flow · openness · exploration
+
 the color of distance, depth, and exploration
 
 evolutionary signal: sky, ocean, open water — safe horizons worth investigating
@@ -29,3 +31,5 @@ evolutionary signal: sky, ocean, open water — safe horizons worth investigatin
 
 - exploration, curiosity, unvisited territory, new [[particles]] to discover
 - the color of [[search]] — the drive that powers the [[main loop]]
+
+one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

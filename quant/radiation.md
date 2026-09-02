@@ -21,3 +21,5 @@ blackbody spectrum led Planck to quantize [[energy]] — birth of [[quantum mech
 particle radiation: alpha, beta, neutron — products of nuclear [[force]] interactions
 
 cosmic [[radiation]] from stars and the cosmic microwave background pervades [[spacetime]] — see [[cosmology]]
+
+UV's invisible threat is why [[violet]] carries [[fear]] — see [[color]]

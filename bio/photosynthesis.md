@@ -30,3 +30,5 @@ Chlorophyll a and b absorb red and blue light, reflect [[green]]. Carotenoids ab
 ## connections
 
 The reverse of [[oxidation]] in cellular respiration -- photosynthesis reduces CO2 while respiration oxidizes glucose. Products feed [[fermentation]] and [[combustion]]. [[polymerization]] of glucose yields [[cellulose]] and starch. The process embodies [[joy]] -- turning light into life.
+
+chlorophyll's green is joy's ancestral stimulus — the center of the [[color]] map
