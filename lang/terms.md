@@ -6,8 +6,8 @@ crystal-domain: cyber
 
 | concept     | cyber term            | meaning                        |
 |-------------|------------------------|--------------------------------|
-| [[file]]        | data particle          | hashed content                 |
-| [[particle]]    | node in graph          | e.g. IPFS hash                 |
+| [[file]]        | the thing a particle names | (particle, data, name, meta) |
+| [[particle]]    | a file's identity      | hemera hash of its data, 32 bytes |
 | [[neuron]]      | cryptographic agent    | signs links, holds stake       |
 | [[cyberlink]]   | atomic intent          | from-particle → to-particle    |
 | [[token]]       | attention weight       | influences focus               |
