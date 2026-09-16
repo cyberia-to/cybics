@@ -14,7 +14,7 @@ the mathematical study of [[information]]: its quantification, storage, and comm
 
 [[channel capacity]] — the maximum rate at which [[information]] can be reliably transmitted through a noisy channel. Shannon's noisy-channel coding theorem proves that error-free communication is possible up to capacity and impossible beyond it
 
-[[compression]] — removing redundancy. lossless compression approaches the entropy rate. the [[crystal]]'s irreducibility principle is an information-theoretic claim: no [[particle]] is compressible given the rest
+[[compression]] — removing redundancy. lossless compression approaches the entropy rate. the [[crystal]]'s irreducibility principle is an information-theoretic claim: no [[file]] is compressible given the rest
 
 mutual information — how much knowing X tells you about Y. I(X;Y) = H(X) − H(X|Y). cross-domain [[bridges]] in the crystal are high-mutual-information pairs
 
@@ -22,7 +22,7 @@ Kullback-Leibler divergence — the information cost of using the wrong distribu
 
 ## for cyber
 
-the protocol is an information-theoretic system. [[particles]] are messages. [[cyberlinks]] are channels. [[bandwidth limiting]] enforces capacity constraints. [[focus]] is a relevance measure derived from the graph's information structure. the [[crystal]]'s 5,040 particles target maximum coverage with minimum redundancy — an information-theoretic optimization problem
+the protocol is an information-theoretic system. [[files]] are messages. [[cyberlinks]] are channels. [[bandwidth limiting]] enforces capacity constraints. [[focus]] is a relevance measure derived from the graph's information structure. the [[crystal]]'s 5,040 particles target maximum coverage with minimum redundancy — an information-theoretic optimization problem
 
 ## key results
 

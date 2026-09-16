@@ -30,7 +30,7 @@ evolutionary signal: decay, rot, toxic substances, contamination
 
 ## in [[prysm]]
 
-- invalid data, rejected transactions, spam content, corrupted [[particles]]
+- invalid data, rejected transactions, spam content, corrupted [[files]]
 - caution — something is wrong, verify before proceeding
 
 one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

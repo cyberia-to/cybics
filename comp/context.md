@@ -76,7 +76,7 @@ this is why context-free inference produces generic, uncalibrated outputs — it
 
 ## context as navigational state
 
-in [[cyb]], context is the active [[particle]] — the "from" node in a [[state transition]]. browsing the [[cybergraph]] = moving context from particle to particle via [[cyberlinks]]. the browser renders what the current context particle links to. searching = seeding the context with a query particle and letting FFC surface the relevant neighborhood.
+in [[cyb]], context is the active [[particle]] — the "from" node in a [[state transition]]. browsing the [[cybergraph]] = moving context from file to file via [[cyberlinks]]. the browser renders what the current context file links to. searching = seeding the context with a query particle and letting FFC surface the relevant neighborhood.
 
 [[karma]] modulates context propagation: [[neurons]] with high [[karma]] have their [[cyberlinks]] weighted more heavily in the [[tri-kernel]], so their contributions to context carry more influence on what φ*_context surfaces.
 

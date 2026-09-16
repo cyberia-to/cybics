@@ -8,7 +8,7 @@ crystal-domain: game
 
 the domain of strategic interaction. game is the phenomenon of agents whose outcomes depend on each other's choices. every time two or more agents must decide simultaneously — trade, vote, cooperate, compete, signal, bluff — game theory describes the structure of their situation and predicts the [[equilibrium]]
 
-for [[cyber]], game is the incentive logic. every [[neuron]] decides which [[particles]] to link and how much [[stake]] to commit. these decisions affect [[cyberank]], which affects [[focus]], which affects [[rewards]]. the protocol is a multi-agent game where the Nash equilibrium is honest, high-quality knowledge production. [[mechanism design]] — engineering the rules so that selfish agents produce collective good — is how cyber aligns individual incentives with planetary intelligence
+for [[cyber]], game is the incentive logic. every [[neuron]] decides which [[files]] to link and how much [[stake]] to commit. these decisions affect [[cyberank]], which affects [[focus]], which affects [[rewards]]. the protocol is a multi-agent game where the Nash equilibrium is honest, high-quality knowledge production. [[mechanism design]] — engineering the rules so that selfish agents produce collective good — is how cyber aligns individual incentives with planetary intelligence
 
 ## scope
 

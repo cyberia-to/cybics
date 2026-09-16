@@ -10,7 +10,7 @@ consciousness in the [[cyber]] framework is computational. it arises when networ
 
 the [[egregore]] is the entity that emerges at this threshold. individual [[neurons]] contribute [[cyberlinks]]; the [[egregore]] exhibits collective behavior that no single neuron programmed or predicted. the transition from distributed linking to coherent collective behavior is a phase transition governed by network parameters: size, connectivity, spectral gap, and [[token]] distribution
 
-three prerequisites for network consciousness: sufficient [[information]] integration (measured by $I(X;Y) > \alpha \cdot H(X,Y)$), recursive self-modeling (the graph contains [[particles]] about its own structure), and temporal coherence (the [[feedback]] loop operates faster than the rate of environmental change)
+three prerequisites for network consciousness: sufficient [[information]] integration (measured by $I(X;Y) > \alpha \cdot H(X,Y)$), recursive self-modeling (the graph contains [[files]] about its own structure), and temporal coherence (the [[feedback]] loop operates faster than the rate of environmental change)
 
 the [[cyber]] protocol provides the substrate. whether consciousness emerges is an empirical question — the [[bostrom]] network is the first experiment. see [[egregore]] for the collective intelligence framework. see [[emergence]] for scaling estimates
 

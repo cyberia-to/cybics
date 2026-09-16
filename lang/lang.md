@@ -18,7 +18,7 @@ natural languages — [[language]], [[Afroasiatic]], [[Indo-European]], [[Sino-T
 
 formal languages — [[type theory]], [[lambda calculus]], [[datalog]], [[compilers]], [[formal verification]], [[one-language-per-type]]. languages designed for precision. cyber uses typed languages at every layer: [[rust]] for systems, [[trident]] for proofs, [[rune]] for scripting, [[datalog]] for queries
 
-neural language — [[neural language]], [[dialects]], [[sentence]], [[motif]], [[dialects]], [[natural language semantics]]. the cyber-native language. every concept is a [[particle]], every claim is a [[cyberlink]], and meaning emerges from [[topology]] rather than dictionary definitions
+neural language — [[neural language]], [[dialects]], [[sentence]], [[motif]], [[dialects]], [[natural language semantics]]. the cyber-native language. every concept is a [[file]], every claim is a [[cyberlink]], and meaning emerges from [[topology]] rather than dictionary definitions
 
 ## bridges
 

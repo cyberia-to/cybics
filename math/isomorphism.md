@@ -27,7 +27,7 @@ In [[cyber]], isomorphism is the recognition that [[biology]] and [[digital]] sy
 - Phylogenetic trees and concept hierarchies share the same graph topology
 - Evolutionary relationships map to semantic relationships
 
-[[species]] ↔ [[particle]]
+[[species]] ↔ [[file]]
 
 - Both are content-addressed nodes in a graph
 - Identity determined by structure and relationships

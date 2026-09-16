@@ -7,7 +7,7 @@ crystal-size: enzyme
 ---
 where [[price]], [[supply]], [[demand]], and [[cap]] meet — the measure of what [[tokens]] carry through the [[cybergraph]]. every [[coin]] locked, every [[card]] minted encodes a claim about value
 
-value in [[cyber]] is emergent. no authority declares what a [[token]] or [[particle]] is worth. value arises from the intersection of four forces: [[supply]] (how many units exist), [[demand]] (how many [[neurons]] want them), [[price]] (the ratio at which exchange occurs), and [[cap]] (the aggregate claim on future utility). these four measures constrain each other — none is meaningful alone
+value in [[cyber]] is emergent. no authority declares what a [[token]] or [[file]] is worth. value arises from the intersection of four forces: [[supply]] (how many units exist), [[demand]] (how many [[neurons]] want them), [[price]] (the ratio at which exchange occurs), and [[cap]] (the aggregate claim on future utility). these four measures constrain each other — none is meaningful alone
 
 the [[cybergraph]] makes value observable. every [[cyberlink]] is a staked assertion, every [[card]] is a priced epistemic claim, every unit of [[karma]] is an earned reputation metric. the graph reveals value through structure: [[particles]] with high [[focus]] are valuable because many [[neurons]] committed real [[tokens]] to link them. [[focus]] IS the protocol's measure of value at the particle level
 

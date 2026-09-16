@@ -19,7 +19,7 @@ layers
 	- [[standard inference]]: compute on gpu [[truthful]] order of particles in [[context]]
 	- [[dynamic names]]: ability to map static names to js and wasm code
 	- [[cyber-cw]] set of [[semantic cosmwasm]] [[progs]] for [[learning]] during execution
-	- processing ordered list of [[particles]] by [[llm]]: local or cloud
+	- processing ordered list of [[files]] by [[llm]]: local or cloud
 	- [[motivation]] driven by [[$O]]: allow to cover cost base of learning through [[learning rewards]]
 - output: [[answer]]
 

@@ -8,7 +8,7 @@ crystal-domain: neuro
 
 the domain of minds and brains. neuro covers everything from the [[axon]] firing an action potential to the emergence of [[consciousness]] in a network of 86 billion neurons. the central puzzle: how does subjective experience arise from objective matter? neuro does not yet answer this, but it maps the territory
 
-for [[cyber]], neuro is the reference architecture. the protocol's vocabulary — [[neuron]], [[particle]], [[cyberlink]], [[synapse]] — is borrowed from neuroscience deliberately. a Bostrom [[neuron]] (account) links [[particles]] (content) through typed [[cyberlinks]] (edges) weighted by [[stake]]. this mirrors biological neural networks where neurons link through synapses weighted by connection strength. [[cyberank]] is the protocol's [[attention]] mechanism. the [[free energy principle]] — the brain minimizes surprise — is the conceptual ancestor of cyber's [[focus]] minimization
+for [[cyber]], neuro is the reference architecture. the protocol's vocabulary — [[neuron]], [[particle]], [[cyberlink]], [[synapse]] — is borrowed from neuroscience deliberately. a Bostrom [[neuron]] (account) links [[files]] (content) through typed [[cyberlinks]] (edges) weighted by [[stake]]. this mirrors biological neural networks where neurons link through synapses weighted by connection strength. [[cyberank]] is the protocol's [[attention]] mechanism. the [[free energy principle]] — the brain minimizes surprise — is the conceptual ancestor of cyber's [[focus]] minimization
 
 ## scope
 

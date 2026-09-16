@@ -9,7 +9,7 @@ how [[tokens]] enter existence. [[coins]] through [[consensus]] rewards, [[cards
 
 [[coins]] mint at the protocol level. each [[step]], the [[tru]] distributes newly created [[coins]] to [[validators]] and their delegators according to the inflation schedule defined by [[consensus]] parameters. this issuance funds network security.
 
-[[cards]] mint through a dedicated [[signal]] from a [[neuron]]. the minting [[neuron]] defines the card's supply, metadata, and provenance binding — an immutable link to the originating [[particle]] or external reference that establishes authenticity.
+[[cards]] mint through a dedicated [[signal]] from a [[neuron]]. the minting [[neuron]] defines the card's supply, metadata, and provenance binding — an immutable link to the originating [[file]] or external reference that establishes authenticity.
 
 [[scores]] mint algorithmically. the protocol evaluates a [[neuron]]'s contribution history — [[cyberlinks]] created, [[cyberank]] earned, governance participation — and issues [[scores]] that reflect cumulative reputation within the [[cybergraph]].
 

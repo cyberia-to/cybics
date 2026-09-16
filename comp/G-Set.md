@@ -24,10 +24,10 @@ the G-Set forms a [[join-semilattice]] under set inclusion (⊆). the join is se
 
 ## role in cyber
 
-[[BBG]] uses G-Sets for content sync. each [[particle]] is identified by a CID (content identifier). when a node encounters a new CID, it adds it to the local G-Set. merge with any other node is union — CIDs that appear on either side appear in the result. deduplication is automatic because set union ignores duplicates
+[[BBG]] uses G-Sets for content sync. each [[file]] is identified by a CID (content identifier). when a node encounters a new CID, it adds it to the local G-Set. merge with any other node is union — CIDs that appear on either side appear in the result. deduplication is automatic because set union ignores duplicates
 
 the grow-only constraint is a natural fit for content-addressed data: a CID, once created, is immutable and permanent. there is no meaningful "remove" for content that is addressed by its own hash
 
 ---
 
-see [[CRDT]] for the family of convergent data structures. see [[particle]] for the content objects identified by CID
+see [[CRDT]] for the family of convergent data structures. see [[file]] for the content objects identified by CID

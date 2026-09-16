@@ -27,7 +27,7 @@ Version 5.0 replaces the pillar/foundation hierarchy (4 pillars at 2Q, 13 founda
 
 ## 1. The Problem: Seeding a Decentralized Mind
 
-The Bostrom protocol is a blockchain where knowledge is stored as particles (content on IPFS, referenced by CID hash) connected by cyberlinks (directed edges stored on-chain). A PageRank variant called CybeRank computes relevance scores across the graph. After genesis, any neuron (account) can add new particles and cyberlinks. The graph grows through collective behavior.
+The Bostrom protocol is a blockchain where knowledge is stored as files (content on IPFS, referenced by CID hash) connected by cyberlinks (directed edges stored on-chain). A PageRank variant called CybeRank computes relevance scores across the graph. After genesis, any neuron (account) can add new files and cyberlinks. The graph grows through collective behavior.
 
 This creates a bootstrapping problem. The empty graph has no knowledge. The first neurons have nothing to link to. Without structure, early contributions are random, disconnected, and domain-biased. The graph that emerges reflects the accidents of who arrived first, not the architecture of reasoning.
 
@@ -213,7 +213,7 @@ Process particles (P) receive double the base connectivity (κ=14) because dynam
 
 ## 6. Size Classes and Two-Layer Architecture
 
-Every particle has both a type (what it is ontologically) and a size class (how deeply it is treated). Content sizes follow a power-of-two progression from a base unit of 256 bytes (2⁸):
+Every file has both a type (what it is ontologically) and a size class (how deeply it is treated). Content sizes follow a power-of-two progression from a base unit of 256 bytes (2⁸):
 
 | Class | Content | Scaling | Link × | Description |
 |-------|---------|---------|--------|-------------|
@@ -574,7 +574,7 @@ Expand. If knowledge density exceeds growth thresholds, the basis can expand (po
 
 The Crystal at genesis encodes definitions, not claims. Definitions are timeless and non-perspectival. But knowledge includes temporal facts, uncertain beliefs, contested claims, and perspectival judgments.
 
-Post-genesis, these are handled through statement reification: a statement particle encodes subject, predicate, object, time, modality (certain/probable/contested), and provenance (who asserted it, when, under what evidence). This pattern resolves time, uncertainty, contradiction, and perspective without complicating the genesis seed. One of the Crystal's deep articles should document this pattern as a growth instruction.
+Post-genesis, these are handled through statement reification: a statement file encodes subject, predicate, object, time, modality (certain/probable/contested), and provenance (who asserted it, when, under what evidence). This pattern resolves time, uncertainty, contradiction, and perspective without complicating the genesis seed. One of the Crystal's deep articles should document this pattern as a growth instruction.
 
 ---
 

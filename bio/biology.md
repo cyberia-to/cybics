@@ -23,14 +23,14 @@ biology is the study of life and living systems. all biological knowledge forms 
 
 [[taxonomy]] is literally a directed acyclic graph. the [[cyber]] protocol computes [[relevance]] over exactly such structures
 
-## species as particles
+## species as files
 
-  in [[cyber]], a [[particle]] is any content-addressed piece of knowledge. a species page is a particle:
+  in [[cyber]], a [[file]] is any content-addressed piece of knowledge. a species page is a file:
 - content: morphology, ecology, uses, observations
 - address: hash of the content ([[IPFS]] CID)
 - links: [[cyberlinks]] to other species, compounds, locations, observations
 
-205 species already exist in this graph. each could be a particle in [[Bostrom]]. the botanical knowledge IS the knowledge graph
+205 species already exist in this graph. each could be a file in [[Bostrom]]. the botanical knowledge IS the knowledge graph
 
 ## ecological cyberlinks
 
@@ -58,7 +58,7 @@ the [[relevance]] machine ranks knowledge. biology IS knowledge
   the digital [[knowledge graph]] and the biological knowledge graph are the same structure:
   | biological | digital |
   |-----------|---------|
-  | species | [[particle]] |
+  | species | [[file]] |
   | ecological relationship | [[cyberlink]] |
   | [[taxonomy]] | graph hierarchy |
   | field observation | [[neuron]] action |

@@ -21,7 +21,7 @@ the network has no coordinator. each fungal node makes local decisions based on 
   |----------|-------------------|
   | fungal hypha | network connection |
   | [[tree]] root tip | [[neuron]] |
-  | nutrient packet | [[particle]] |
+  | nutrient packet | [[file]] |
   | chemical signal relay | [[cyberlink]] propagation |
   | resource allocation by gradient | [[relevance]] by [[rank]] |
   | no central coordinator | [[consensus]] (BFT) |

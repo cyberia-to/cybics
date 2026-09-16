@@ -31,7 +31,7 @@ evolutionary signal: sky, ocean, open water — safe horizons worth investigatin
 
 ## in [[prysm]]
 
-- exploration, curiosity, unvisited territory, new [[particles]] to discover
+- exploration, curiosity, unvisited territory, new [[files]] to discover
 - the color of [[search]] — the drive that powers the [[main loop]]
 
 one of the seven of [[color]] — the spectrum bent into [[cyberia]]'s flag

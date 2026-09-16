@@ -14,7 +14,7 @@ the ratio between [[supply]] and [[demand]] sets the [[price]] discovery curve. 
 
 fixed-supply [[tokens]] like [[BOOT]] carry a hard [[cap]] written into genesis. elastic-supply [[tokens]] adjust through programmatic [[mint]] schedules governed by [[consensus]].
 
-[[neurons]] observe supply through on-chain queries. the [[knowledge graph]] tracks supply as a first-class economic [[particle]], linking it to [[cap]], [[price]], and [[demand]] through [[cyberlinks]].
+[[neurons]] observe supply through on-chain queries. the [[knowledge graph]] tracks supply as a first-class economic [[file]], linking it to [[cap]], [[price]], and [[demand]] through [[cyberlinks]].
 
 supply encodes the collective memory of all past [[mint]] and [[burn]] decisions — the ledger of creation and destruction.
 
