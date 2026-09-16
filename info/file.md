@@ -1,5 +1,5 @@
 ---
-alias: files
+alias: named file, findable file, ~ file
 tags: cyber, core
 crystal-type: entity
 crystal-domain: cyber
