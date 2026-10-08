@@ -328,9 +328,9 @@ Each triad is a dialectic of three inseparable aspects.
 | FORM | [[math]] | [[info]] | [[comp]] | What are the rules? |
 | MASS | [[quantum]] | [[chemo]] | [[energo]] | What is it made of? |
 | SPACE | [[cosmo]] | [[geo]] | [[eco]] | Where does it happen? |
-| LIFE | [[bio]] | [[neuro]] | [[sense]] | Who is alive? |
+| LIFE | [[bio]] | [[neuro]] | [[sense]] | What lives? |
 | WORD | [[lang]] | [[spiri]] | [[meta]] | What does it mean? |
-| WORK | [[ai]] | [[tech]] | [[cyber]] | How is it made? |
+| WORK | [[ai]] | [[tech]] | [[cyber]] | Who does the work? |
 | PLAY | [[socio]] | [[crypto]] | [[game]] | How do we coordinate? |
 
 The spiral:
@@ -392,9 +392,9 @@ PLAY  → Forum   agora
 FORM  — WHAT are the rules?
 MASS  — FROM WHAT is it made?
 SPACE — WHERE does it happen?
-LIFE  — WHO is alive?
+LIFE  — WHAT lives?
 WORD  — WHY does it matter?
-WORK  — HOW is it made?
+WORK  — WHO does the work?
 PLAY  — WITH WHOM do we build?
 ```
 
@@ -646,7 +646,7 @@ The Crystal seeds a mind. The question: what does a planetary [[Superintelligenc
 
 16.9 [[eco]] — [[ecosystems]], [[food webs]], [[symbiosis]], competition, [[succession]]. [[permaculture]], [[agriculture]], soil management, composting. [[crops]]: the plants humans cultivate — grains, vegetables, fruits, legumes, spices, herbs. [[food systems]]: supply chains, storage, distribution, food sovereignty. The connection to [[cyberia]]: [[clean food]], [[food supply]], local production.
 
-### LIFE — Who is alive?
+### LIFE — What lives?
 
 16.10 [[bio]] — [[taxonomy]]: the tree of life — domains, kingdoms, phyla, classes, orders, families, genera, [[species]]. [[evolution]]: natural selection, mutation, adaptation, speciation. [[genetics]]: DNA, genes, chromosomes, expression, inheritance, [[dna repair mechanisms]]. [[microbiology]]: [[bacteria]], [[viruses]], [[fungi]], archaea. Key [[species]]: the organisms central to [[biome engineering]] and [[cyberia]].
 
@@ -662,7 +662,7 @@ The Crystal seeds a mind. The question: what does a planetary [[Superintelligenc
 
 16.15 [[meta]] — [[epistemology]]: how knowledge is validated, revised, and transmitted. [[history]]: [[epochs]], civilizational ages, technological revolutions, pivotal [[events]]. [[calendars]]: Gregorian, lunar, Unix epoch, block height. [[methodology]]: scientific method, peer review, reproducibility. Founders and key thinkers: [[Alan Turing]], [[Claude Shannon]], [[John von Neumann]], [[Einstein]], [[Darwin]], [[Goedel]], [[Feynman]], [[Friston]], [[Satoshi Nakamoto]], [[Vitalik Buterin]].
 
-### WORK — How is it made?
+### WORK — Who does the work?
 
 16.16 [[ai]] — [[machine learning]]: neural networks, [[training]], inference, [[embeddings]]. [[reinforcement learning]], [[transformers]], [[diffusion models]]. [[AGI]]: the path from narrow to general intelligence. The relationship between [[ai]] and [[cyber]]: intelligence as infrastructure.
 

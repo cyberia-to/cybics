@@ -5,7 +5,7 @@ crystal-type: entity
 crystal-domain: cybics
 alias: LIFE triad
 ---
-who is alive?
+what lives?
 
 the fourth triad of [[cybics]] — space births life; matter organizes itself into agents that perceive.
 

@@ -26,9 +26,9 @@ seven triads cover all [[knowledge]]. each triad is a dialectic of three insepar
 | [[form]] | [[math]] ([[proof]]) | [[info]] ([[bit]]) | [[comp]] ([[step]]) | what are the rules? |
 | [[mass]] | [[quant]] | [[chemo]] | [[energo]] | what is it made of? |
 | [[space]] | [[cosmo]] | [[geo]] | [[eco]] | where does it happen? |
-| [[life]] | [[bio]] | [[neuro]] | [[sense]] | who is alive? |
+| [[life]] | [[bio]] | [[neuro]] | [[sense]] | what lives? |
 | [[word]] | [[lang]] | [[spiri]] | [[meta]] | what does it mean? |
-| [[work]] | [[ai]] | [[tech]] | [[cyber]] | how is it made? |
+| [[work]] | [[ai]] | [[tech]] | [[cyber]] | who does the work? |
 | [[play]] | [[socio]] | [[crypto]] | [[game]] | how do we coordinate? |
 
 7 questions × 3 aspects = 21 irreducible domains of [[knowledge]]. the [[crystal]] seeds the [[cybergraph]] with these domains as the foundational ontology

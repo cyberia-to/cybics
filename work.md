@@ -5,7 +5,7 @@ crystal-type: entity
 crystal-domain: cybics
 alias: WORK triad
 ---
-how is it made?
+who does the work?
 
 the sixth triad of [[cybics]] — word guides work; knowledge becomes the capacity to reshape the world.
 
