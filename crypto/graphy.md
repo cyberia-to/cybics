@@ -52,18 +52,18 @@ Shor's algorithm breaks RSA, ECDSA, ECDH. Grover halves symmetric/hash security.
 field:   Goldilocks (p = 2^64 - 2^32 + 1)
 hash:    Hemera (Poseidon2 over Goldilocks) — ~736 constraints
 IOP:     SuperSpartan (CCS/AIR via sumcheck) — linear-time prover
-lens:    multilinear polynomial commitment over hemera Merkle trees — scheme chosen by the bake-off in soft3 proposals/proof-system-repair
+lens:    multilinear polynomial commitment over hemera Merkle trees — WHIR (rate 1/64), winner of the bake-off in soft3 proposals/proof-system-repair
 VM:      nox (register machine over Goldilocks)
 ```
 
-authentication via stark preimage proofs. encryption via lattice KEM (interactive) and CSIDH (non-interactive). graph state via [[NMT]], [[MMR]], [[SWBF]], [[EdgeSet]], [[LogUp]]. domain separation with one function, six roles:
+authentication via zheng preimage proofs. encryption via lattice KEM (interactive) and CSIDH (non-interactive). graph state via [[NMT]], [[MMR]], [[SWBF]], [[EdgeSet]], [[LogUp]]. domain separation with one function, six roles:
 
 ```
 H_edge(x)        = Hemera(0x01 | x)    edge hashing
 H_commit(x)      = Hemera(0x02 | x)    record commitments
 H_nullifier(x)   = Hemera(0x03 | x)    SWBF index derivation
 H_merkle(x)      = Hemera(0x04 | x)    NMT and MMR nodes
-H_fiat_shamir(x) = Hemera(0x05 | x)    Brakedown challenges
+H_fiat_shamir(x) = Hemera(0x05 | x)    Fiat–Shamir challenges (sumcheck, WHIR)
 H_transcript(x)  = Hemera(0x06 | x)    proof transcript binding
 ```
 
